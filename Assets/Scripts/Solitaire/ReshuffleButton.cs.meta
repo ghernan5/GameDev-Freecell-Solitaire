@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bb3364cd82ec4b947ae61890b83e8d10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popupPanel: {fileID: 8122585245224302679, guid: 6841ad1bec06e994d95b0c19fe5654f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
